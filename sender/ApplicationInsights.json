@@ -1,0 +1,4 @@
+{
+  "connectionString": "InstrumentationKey=** Your instrumentation key **",
+  "roleName": "Sender"
+}
